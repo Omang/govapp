@@ -34,5 +34,8 @@ The Government of Botswana calls upon developers to develop a solution that will
 
 5. To automate notifications and alerts.
 
+THE PROJECT ABOVE
+
+MEAN STACK APP
 
 
